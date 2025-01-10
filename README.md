@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sdevasya-github
-- 👀 I’m interested in cloud platforms
-- 🌱 I’m currently learning K8S 
+- 👀 Well expereinced in private cloud, hybrid cloud, public domain in telecom deployments and insights on metrics,events.
+- 🌱 I’m currently working  K8S, devops and experimental ML, LLM models. 
 - 💞️ I’m looking to collaborate on K8S
 - 📫 How to reach me ...
 
